@@ -34,8 +34,6 @@ Day6\_24MSCS28-main/
 │                   └── UserStore.java     # Handles file-based data storage
 ├── data.json               # Stores user data as JSON
 ├── pom.xml                 # Maven configuration
-├── Img/                    # Screenshots of Postman tests
-└── .idea/                  # IntelliJ project config files
 
 ````
 
